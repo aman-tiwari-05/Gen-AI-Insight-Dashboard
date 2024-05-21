@@ -84,7 +84,6 @@ and don't forget to Print the final result in your response. \n Just return your
       
 
 
-# How many time Mumbai Indians have won the matches?   Which are the top 5 teams which has won most number of matches?     Which venue has hosted most number of matches
 
 
      
